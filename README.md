@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @poonam-kaurrrr
-- 🌱 I’m currently learning java...
-- ahahahha jejemon live laugh love vinnie hacker
+
 
 
 <!---
